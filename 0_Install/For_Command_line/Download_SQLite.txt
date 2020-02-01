@@ -5,3 +5,4 @@ https://sqlite.org/download.html
 can choose your operation system
 
 unpack it and copy the executable to your bin folder
+C:\Windows\System32

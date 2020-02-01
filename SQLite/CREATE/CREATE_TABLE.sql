@@ -1,14 +1,14 @@
-# create a table
+-- create a table
 
-# this can vary depending on your relational database management system
+-- this can vary depending on your relational database management system
 
-# when you create a table you need to give it a name
-# define its columns by names
-# define the data type of the columns
-# and how many characters/decimales are allowed to be written in
-# define per column if you allow no values (NULL) or not (NOT NULL)
-# PRIMARY KEY s alwqys need values
-# empty strings (e.g. spaces) are NOT NULL
+-- when you create a table you need to give it a name
+-- define its columns by names
+-- define the data type of the columns
+-- and how many characters/decimales are allowed to be written in
+-- define per column if you allow no values (NULL) or not (NOT NULL)
+-- PRIMARY KEY s alwqys need values
+-- empty strings (e.g. spaces) are NOT NULL
 
 
 CREATE TABLE Table_Name

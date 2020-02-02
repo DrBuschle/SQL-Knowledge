@@ -1,2 +1,2 @@
 * linguist-vendored
-*.sql linguist-language = sqlite
+*.sql linguist-language=sqlite

@@ -1,4 +1,4 @@
-# SQL will not be shown by GiHub as programming language, since it is a data language
+# SQL will not be shown by GitHub as programming language, since it is a data language
 
 * linguist-vendored
 *.sql linguist-language=sql

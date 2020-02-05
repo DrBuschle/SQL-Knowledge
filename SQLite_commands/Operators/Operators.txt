@@ -1,0 +1,8 @@
+=	Equal
+<>		Not equal (other SQL versions use !=)
+>		Greater than
+<		Less than
+>=		Greater than or equal
+<=		Less than or equal
+BETWEEN		Between an inclusive range
+IS NULL		Is a null value

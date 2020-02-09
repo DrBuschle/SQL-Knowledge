@@ -1,7 +1,7 @@
 -- apply an aggregate function
 
 
-SELECT SUM(Column_Name)			# sums up the values of the column Column_Name
+SELECT SUM(Column_Name)			-- sums up the values of the column Column_Name
 FROM Table_Name;
 
 

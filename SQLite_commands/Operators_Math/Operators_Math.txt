@@ -1,0 +1,6 @@
+# mathematical operators
+
++	# Addition
+- 	# Subtraction
+*	# Multiplication
+/	# Division

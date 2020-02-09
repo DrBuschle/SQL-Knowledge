@@ -1,0 +1,7 @@
+# aggregate functions
+
+MAX()	Gives you the maximal value
+MIN()	Gives you the minimal value
+AVG()	Averages a column of values
+COUNT()	Counts the number of values
+SUM()	Sums up all values of the column

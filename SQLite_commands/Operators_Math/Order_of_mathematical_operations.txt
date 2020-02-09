@@ -1,0 +1,8 @@
+# order of mathematical operations
+
+Parentheses
+Exponents
+Multiplication
+Division
+Addition
+Subtraction

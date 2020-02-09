@@ -1,4 +1,4 @@
-=	Equal
+=		Equal
 <>		Not equal (other SQL versions use !=)
 >		Greater than
 <		Less than

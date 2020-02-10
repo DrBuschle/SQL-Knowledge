@@ -4,3 +4,5 @@
 - 	# Subtraction
 *	# Multiplication
 /	# Division
+%	# Modulo - Division remainer 13 % 5 = 3
+EXP()	# exponent

@@ -5,5 +5,5 @@ SELECT State
       , LastName
       , Company
 FROM Customers
-WHERE State IN ('RJ', 'DF', 'AB', 'BC', 'CA', 'WA', 'NY');
+WHERE State IN ('AB', 'CD', 'EF', 'GH', 'XZ', 'GZ', 'BD');
 

@@ -1,7 +1,6 @@
--- example mail address
+-- use operators
 
--- get all the mail addresses ending on hotmail.com
-
-SELECT Email
-FROM Customers
-WHERE Email LIKE '%hotmail.com';
+SELECT TrackId
+      ,Seconds
+FROM Tracks
+WHERE Seconds > 500;

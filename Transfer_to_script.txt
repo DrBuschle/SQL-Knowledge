@@ -1,0 +1,3 @@
+Inner JOIN give back what is matching in both tables
+If one table has more, they won't come up here, just the matches
+

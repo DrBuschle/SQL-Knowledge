@@ -16,4 +16,5 @@ SELECT Table_Name_1.Column_Name_11		-- select the output, does not need to inclu
 		, Table_Name_2.Column_Name_21
 		, Table_Name_3.Column_Name_31
 FROM ((Table_Name_1 INNER JOIN Table_Name_2 on Table_Name_1.Matching_Column_Name_1 = Table_Name_2.Matching_Column_Name_1) -- apply the first join between table 1 and 2
+																						-- the matching name does not need to be the same, but the values have to match
 INNER JOIN Table_Name_3 ON Table_Name_1.Matching_Column_Name_2 = Table_Name_3.Matching_Column_Name_2); -- apply the second join between table 1 and 3

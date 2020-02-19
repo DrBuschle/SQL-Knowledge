@@ -26,3 +26,4 @@ dbWriteTable(my_connection, "Example_data", ToothGrowth)
 dbListTables(my_connection)
 
 
+TEST

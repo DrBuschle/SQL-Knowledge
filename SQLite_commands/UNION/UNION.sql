@@ -1,5 +1,5 @@
 -- Union is used to combine the output of two or more SELECT statements
--- result block, which are supposed to be joined need to be the same size
+-- !!!result blocks, which are supposed to be joined need to be the same size!!!
 	-- and need to comprise the same type of data
 -- columns should be in the same order
 

@@ -1,0 +1,23 @@
+-- time modifiers
+
+
+NNN days			-- add/subtract days to your time
+NNN hours			-- add/subtract hours to your time
+NNN minutes			-- add/subtract minutes to your time
+NNN.NNNN seconds 	-- add/subtract (fractial) seconds to your time
+NNN months			-- add/subtract month to your time
+NNN years			-- add/subtract years to your time
+start of month		-- print beginning of a month
+start of year		-- print beginning of a year
+start of day 		-- print beginning of a day
+weekday N			-- print the next date from the current one where the weekday is numer N
+unixepoch			-- Unix time
+localtime			-- print local time
+utc					-- print UTC time (Coordinated universal time)
+
+
+-- e.g.
+SELECET DATE('2020-02-22', '+1 day');
+
+--returns
+2020-02-23

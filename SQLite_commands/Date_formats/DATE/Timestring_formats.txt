@@ -1,0 +1,14 @@
+-- timestring formats
+
+
+YYYY-MM-DD
+YYYY-MM-DD HH:MM		
+YYYY-MM-DD HH:MM:SS			
+YYYY-MM-DD HH:MM:SS.SSS
+YYYY-MM-DDTHH:MM
+YYYY-MM-DDTHH:MM:SS
+YYYY-MM-DDTHH:MM:SS.SSS		-- Year, Monath, Day, T= just a separator of date and time, Hours, Seconds, Fractial seconds
+HH:MM
+HH:MM:SS
+HH:MM:SS.SSS
+now

@@ -1,0 +1,53 @@
+Week 4 exam
+
+1.
+
+Substring
+Lower
+Upper
+Concatenate
+Trim
+
+2.
+
+u are beautiful
+
+
+3.
+You won't get any results
+
+
+4.
+
+Insert
+Update
+Select
+Delete
+
+
+5.
+Views will remain after the database connection has ended
+
+
+6.
+FALSE
+
+7.
+CREATE VIEW
+customers AS
+SELECT * 
+FROM customers
+WHERE Name LIKE '%I'
+
+
+
+8.
+Filter out unwanted data elements
+Understanding your data
+
+
+9.
+Understaning your data
+
+10.
+Start simple and break it down first

@@ -28,7 +28,7 @@ SELECT Column_Name_With_Date
 	, STRFTIME('%Y', Column_Name_With_Date) AS Year
 	, STRFTIME('%m', Column_Name_With_Date) AS Month
 	, STRFTIME('%d', Column_Name_With_Date) AS Day
-	, DATE(('now') - Column_Name_With_Date) AS Age
+	, (DATE('now') - Column_Name_With_Date) AS Age
 FROM Table_Name_1
 
 

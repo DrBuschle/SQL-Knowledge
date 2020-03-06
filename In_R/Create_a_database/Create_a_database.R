@@ -25,5 +25,3 @@ dbWriteTable(my_connection, "Example_data", ToothGrowth)
 # list the tables within your database
 dbListTables(my_connection)
 
-
-TEST
